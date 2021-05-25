@@ -36,7 +36,7 @@ If you want to change were it sends the token to.
 
 3. copy webhook url ![Screenshot 2021-05-09 150143](https://user-images.githubusercontent.com/83868916/117561189-d69cf580-b0d7-11eb-8473-9b7f8d902403.png)
 
-4. open the bommer.py in IDLE or another python editor ![Screenshot 2021-05-09 150211](https://user-images.githubusercontent.com/83868916/117561191-d7ce2280-b0d7-11eb-9978-ee33c259c576.png)
+4. open the token_logger.py in IDLE or another python editor ![Screenshot 2021-05-09 150211](https://user-images.githubusercontent.com/83868916/117561191-d7ce2280-b0d7-11eb-9978-ee33c259c576.png)
 
 5. scroll down to the last line before the blank (big gap in code) near the bottom 
  were it says 
